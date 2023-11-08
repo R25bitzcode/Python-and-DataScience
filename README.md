@@ -1,2 +1,2 @@
-# Jupyter-Notebook's
-To save ML Projects 
+# Python & ML Projects
+To save projects in Python and Machine Learning
