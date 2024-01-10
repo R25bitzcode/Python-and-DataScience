@@ -1,2 +1,2 @@
-# Python & ML Projects
-To save projects in Python and Machine Learning
+# Python & Data-ScienceProjects
+To save projects in Python and Data Science
